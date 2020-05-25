@@ -8,8 +8,6 @@
 4. [Modeling](#4-modeling)
 4. [Results](#results)
 
-### Project 3
-
 ---
 
 ### 1. Goals & Methods
